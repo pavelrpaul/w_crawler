@@ -1,5 +1,5 @@
 # w_crawler
-Simple web crawler
+Simple web crawler with content analyzer
 
 #### Start using flag 
 
